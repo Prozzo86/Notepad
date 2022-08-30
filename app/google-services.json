@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "38734151139",
+    "project_id": "biljeske-9029d",
+    "storage_bucket": "biljeske-9029d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38734151139:android:95cc43f3d3b053d6f0f4d6",
+        "android_client_info": {
+          "package_name": "com.example.biljeke"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38734151139-cjtvv8tmhmijkfj6dbvaqi69nvmfmb69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwR6EwDYKlz48AUmJead6zT7HOvvbWffw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38734151139-cjtvv8tmhmijkfj6dbvaqi69nvmfmb69.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
